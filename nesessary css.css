@@ -7,13 +7,29 @@
     "wdth" 100;
 }
 /* nav styles */
-nav{display: flex;}
+nav{display: flex;
+}
 
 .nav-title{
     font-size: 45px;
     font-weight: 800;
 }
 /* list style */
-nav ul {list-style: none;
+nav ul {display: flex;
+    
+
 }
 .text-primary{color: #FD6E0A;}
+nav ul li{list-style: none;}
+
+nav ul li a{font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+text-decoration: none;
+
+}
+/* shared style */
+
+.dark2{
+    color: #474747;
+}
+
