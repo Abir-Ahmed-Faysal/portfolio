@@ -33,7 +33,12 @@ text-decoration: none;
 
 nav ul li{list-style: none;}
 /* shared style */
-
+.secondary-background{
+background-color: #FFF8F3;
+}
+.dark1{
+    color: #181818;
+}
 .dark2{
     color: #474747;
 }
@@ -48,6 +53,7 @@ color: white;
 padding: 18px 35px;
 border-radius: 5px;
 border: none;}
+
 
 
 
@@ -92,4 +98,38 @@ margin: 0 35px 0 210px;
     background-repeat: no-repeat;
     background-position: left top,bottom right;
   
+}
+
+
+
+
+/* main */
+main{
+    margin: 0px auto;
+    max-width: 1140px;
+
+}
+  /* About */
+.section-title{
+    font-size: 35px;
+    font font-weight: bold;
+    
+}
+.section-description{
+font-size: 18px;
+line-height: 30px;
+
+}.about{
+    border-radius: 10px;
+padding: 130px 156px;
+text-align: center;
+margin: 130px 0;
+}
+.about-items{display: flex;
+justify-content: space-around;}
+
+.item-description{
+    font-size: 20px;
+    font-weight: bold;
+
 }
