@@ -55,6 +55,9 @@ border-radius: 5px;
 border: none;}
 
 
+.text-center{text-align: center;}
+
+
 
 
 /* banner */
@@ -133,3 +136,9 @@ justify-content: space-around;}
     font-weight: bold;
 
 }
+.skill-container
+{display: flex;}
+
+
+/* what I do part */
+
