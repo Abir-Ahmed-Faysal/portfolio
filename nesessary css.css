@@ -56,17 +56,20 @@ border: none;}
 .banner-greetings{
     font-size: 45px;
     font-weight: 600;
+    margin-bottom: -30px;
+  
     
 }
 .banner-title{
     font-size:85px ;
     font-weight: bold;
-
+margin-bottom: -10px;
 }
 
 .banner-description{
     font-size: 18px;
     line-height: 30px;
+   margin-bottom: 30px;
    
 }
 
