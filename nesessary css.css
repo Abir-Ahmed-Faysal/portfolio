@@ -84,3 +84,9 @@ margin: 0 35px 0 210px;
     max-width: 584px;
 }
 
+.header{
+    background-image: url('/portfolio-resources/images/developer.png'),url('/portfolio-resources/images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: left top,bottom right;
+  
+}
